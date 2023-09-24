@@ -1,7 +1,6 @@
 'use client'
 
 import { Link } from '@chakra-ui/next-js'
-import { ExternalLinkIcon } from '@chakra-ui/icons'
 import { Heading, Box, Button, Text } from '@chakra-ui/react'
 import Header from './components/header'
 
