@@ -19,10 +19,10 @@ export default function Home() {
 
 	return(
 		<>
-      <h1 className="mytitle" style={{color: 'red'}}>おもしろい数学の世界</h1>
+      		<h1 className="mytitle" style={{color: 'red'}}>おもしろい数学の世界</h1>
 			<p>84872+84872=</p>
 			<Link href={`/layer1`}><button>答えはここをクリック！</button></Link>
 		</>
-	); //コメントアウト
+	);
 
 }
